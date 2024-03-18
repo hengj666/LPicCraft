@@ -1,0 +1,74 @@
+{
+    "cz1": {
+        "text1_original": "图库马会传真=台湾 078期",
+        "text2": "鸡狗猪     蛇猴鼠",
+        "overlay_image_path": "..\\data_file\\Temp_data\\tk-tw-cz.jpg",
+        "top_left_position": [
+            166,
+            2
+        ],
+        "bottom_right_position": [
+            850,
+            904
+        ],
+        "text1": "台湾078期",
+        "name": "078_图库_台湾_马会传真",
+        "expect": "078",
+        "area": "台湾",
+        "class": "马会传真"
+    },
+    "cz2": {
+        "text1_original": "图库马会传真=新澳门 078期",
+        "text2": "鼠猴牛     羊蛇马",
+        "overlay_image_path": "..\\data_file\\Temp_data\\tk-xam-cz.jpg",
+        "top_left_position": [
+            166,
+            2
+        ],
+        "bottom_right_position": [
+            850,
+            904
+        ],
+        "text1": "新澳门078期",
+        "name": "078_图库_新澳门_马会传真",
+        "expect": "078",
+        "area": "新澳门",
+        "class": "马会传真"
+    },
+    "cz3": {
+        "text1_original": "马会传真=新澳门 079期",
+        "text2": "鼠鸡龙     马狗羊",
+        "overlay_image_path": "..\\data_file\\Temp_data\\xam-cz.jpg",
+        "top_left_position": [
+            166,
+            2
+        ],
+        "bottom_right_position": [
+            850,
+            904
+        ],
+        "text1": "新澳门079期",
+        "name": "079_新澳门_马会传真",
+        "expect": "079",
+        "area": "新澳门",
+        "class": "马会传真"
+    },
+    "cz4": {
+        "text1_original": "马会传真=澳门 079期",
+        "text2": "蛇兔猴     龙马狗",
+        "overlay_image_path": "..\\data_file\\Temp_data\\lam-cz.jpg",
+        "top_left_position": [
+            166,
+            2
+        ],
+        "bottom_right_position": [
+            850,
+            904
+        ],
+        "text1": "澳门079期",
+        "name": "079_澳门_马会传真",
+        "expect": "079",
+        "area": "澳门",
+        "class": "马会传真"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "pg1": {
+        "text1_original": "图库跑狗图=台湾 078期",
+        "text2": "兔鼠猴     蛇牛龙",
+        "overlay_image_path": "..\\data_file\\Temp_data\\tk-tw-pgt.jpg",
+        "top_left_position": [
+            188,
+            2
+        ],
+        "bottom_right_position": [
+            778,
+            904
+        ],
+        "text1": "台湾078期",
+        "name": "078_图库_台湾_跑狗图",
+        "expect": "078",
+        "area": "台湾",
+        "class": "跑狗图"
+    },
+    "pg2": {
+        "text1_original": "图库跑狗图=新澳门 078期",
+        "text2": "鸡牛猪虎     猴狗兔",
+        "overlay_image_path": "..\\data_file\\Temp_data\\tk-xam-pgt.jpg",
+        "top_left_position": [
+            188,
+            2
+        ],
+        "bottom_right_position": [
+            778,
+            904
+        ],
+        "text1": "新澳门078期",
+        "name": "078_图库_新澳门_跑狗图",
+        "expect": "078",
+        "area": "新澳门",
+        "class": "跑狗图"
+    }
+}

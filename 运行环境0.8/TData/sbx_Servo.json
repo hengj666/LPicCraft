@@ -1,0 +1,74 @@
+{
+    "sbx1": {
+        "text1_original": "图库四不像=台湾 078期",
+        "text2": "龙猪牛     马鼠猴",
+        "overlay_image_path": "..\\data_file\\Temp_data\\tk-tw-sbx.jpg",
+        "top_left_position": [
+            122,
+            2
+        ],
+        "bottom_right_position": [
+            987,
+            904
+        ],
+        "text1": "台湾078期",
+        "name": "078_图库_台湾_四不像",
+        "expect": "078",
+        "area": "台湾",
+        "class": "四不像"
+    },
+    "sbx2": {
+        "text1_original": "图库四不像=新澳门 078期",
+        "text2": "鼠龙虎     猴蛇鸡",
+        "overlay_image_path": "..\\data_file\\Temp_data\\tk-xam-sbx.jpg",
+        "top_left_position": [
+            122,
+            2
+        ],
+        "bottom_right_position": [
+            987,
+            904
+        ],
+        "text1": "新澳门078期",
+        "name": "078_图库_新澳门_四不像",
+        "expect": "078",
+        "area": "新澳门",
+        "class": "四不像"
+    },
+    "sbx3": {
+        "text1_original": "四不像=新澳门 079期",
+        "text2": "龙鸡兔     鼠牛虎",
+        "overlay_image_path": "..\\data_file\\Temp_data\\xam-sbx.jpg",
+        "top_left_position": [
+            122,
+            2
+        ],
+        "bottom_right_position": [
+            987,
+            904
+        ],
+        "text1": "新澳门079期",
+        "name": "079_新澳门_四不像",
+        "expect": "079",
+        "area": "新澳门",
+        "class": "四不像"
+    },
+    "sbx4": {
+        "text1_original": "四不像=澳门 079期",
+        "text2": "龙兔牛     马鸡羊",
+        "overlay_image_path": "..\\data_file\\Temp_data\\lam-sbx.jpg",
+        "top_left_position": [
+            122,
+            2
+        ],
+        "bottom_right_position": [
+            987,
+            904
+        ],
+        "text1": "澳门079期",
+        "name": "079_澳门_四不像",
+        "expect": "079",
+        "area": "澳门",
+        "class": "四不像"
+    }
+}
